@@ -1,0 +1,9 @@
+<script src="{{asset('assets/js/jquery.min.js')}}"></script>
+<script src="{{asset('assets/js/tether.min.js')}}"></script>
+<script src="{{asset('assets/js/bootstrap.js')}}"></script>
+<script src="{{asset('assets/js/parallax.js')}}"></script>
+<script src="{{asset('assets/js/animate.js')}}"></script>
+<script src="{{asset('assets/js/ekko-lightbox.js')}}"></script>
+<script src="{{asset('assets/js/custom.js')}}"></script>
+<script src="{{asset('assets/js/ajaxcalls.js')}}"></script>
+<script src="{{asset('assets/js/main.js')}}"></script>
